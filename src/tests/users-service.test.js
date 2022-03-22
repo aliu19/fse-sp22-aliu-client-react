@@ -104,7 +104,6 @@ describe('findUserById',  () => {
   });
 });
 
-
 describe('findAllUsers',  () => {
 
   // sample users we'll insert to then retrieve
